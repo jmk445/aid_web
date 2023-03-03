@@ -6,6 +6,6 @@ def aid_web():
     return "Hello Aid!"
 
 
-#C:\Z_Ddrive\aid_web\aid.html
+#python3 -m pipenv run
 
-#python3 -m uvicorn main:app --reload
+#python3 -m uvicorn test:app --reload
